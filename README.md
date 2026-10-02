@@ -1,4 +1,4 @@
-<h1 align="center">Cherri</h1>
+<h1 align="center">Turtleplus</h1>
 
 <p align="center">
   <img alt="image" src="https://github.com/user-attachments/assets/d0532d69-892b-4b08-ae29-f2191295fbf7" />
